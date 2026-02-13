@@ -134,4 +134,4 @@ java -jar target/expenseapp-0.0.1-SNAPSHOT.jar
 B.Tech – Computer Science  
 Backend Developer (Java | Spring Boot)
 
-🔗 GitHub: https://github.com/kodari-gangadhar
+🔗 GitHub: https://github.com/Gangadhar966

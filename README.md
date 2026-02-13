@@ -99,6 +99,6 @@ http://localhost:3000
 B.Tech – Computer Science  
 Java Full Stack Developer  
 
-GitHub: https://github.com/kodari-gangadhar
+GitHub: https://github.com/Gangadhar966
 
 
